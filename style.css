@@ -26,7 +26,7 @@ a{
     position: relative;
     bottom: 60px;
     height: 239px;
-     width: 1530px;
+     width: 1540px;
 }
 #logo{
     color: aliceblue;
@@ -38,7 +38,7 @@ a{
 }
 #content{
     height: 550px;
-    width: 1530px;
+    width: 1540px;
     background-image: url("https://static.vecteezy.com/system/resources/previews/043/032/865/large_2x/a-pair-of-koi-fish-in-the-pond-closeup-photo.jpg");
     background-size: cover;
     position: relative;
@@ -68,7 +68,7 @@ a{
 }
 #all{
     height: 700px;
-     width: 1530px;
+     width: 1540px;
    
     display: flex;
     flex-wrap: wrap;
@@ -159,7 +159,7 @@ a{
 }
 #fotter{
     height: 419px;
-    width: 1530px;
+    width: 1540px;
     border: solid;
    position: relative;
    bottom: 0px;
@@ -181,7 +181,7 @@ a{
 }
 #signup{
     height:400px;
-    width: 1523px;
+    width: 1540px;
     border: solid;
     display: flex;
     justify-content: center;
@@ -219,7 +219,7 @@ a{
 
 #order{
     height: 700px;
-    width: 1430px;
+    width: 1530px;
     display: flex;
     flex-wrap: wrap;
     column-gap: 10rem;
@@ -291,7 +291,7 @@ a{
 }
 #orderbar{
     height: 90px;
-     width: 1530px;
+     width: 1540px;
     background-color: black;
     color: aliceblue;
     position: relative;
@@ -308,7 +308,7 @@ a{
 }
 #about{
     height: 170px;
-    width: 15330px;
+    width: 1540px;
     border: solid  black;
     background-color: black;
     color: aliceblue;
