@@ -357,7 +357,7 @@ a{
 @media(max-width:361px){
     .head{
         height: 400px;
-        width: 360px;
+        width: 371px;
     }
     #logo{
         font-size: 17px;
@@ -371,7 +371,7 @@ a{
         right: 21px;
     }
     #content{
-        width: 361px;
+        width: 371px;
     }
     #landing{
         width: 300px;
@@ -382,11 +382,11 @@ a{
             font-size: 30px;
         }
         #orderbar{
-            width: 361px;
+            width: 371px;
             bottom: 142px;
         }
         #order{
-            width: 361px;
+            width: 371px;
             height: 800px;
             justify-content: flex-start;
             left: 10px;
@@ -405,10 +405,10 @@ a{
             font-size: 14px;
         }
         #Services{
-        width: 361px;
+        width: 371px;
         }
        #all{
-        width: 361px;
+        width: 371px;
         left: 0px;
         gap: 1rem;
         justify-content: flex-start;
@@ -427,21 +427,21 @@ a{
         font-size: 17px;
        }
        #about{
-        width: 361px;
+        width: 371px;
          height: 320px; 
        }
        h2{
         font-size: 19px;
        }
        #signup{
-        width: 361px;
+        width: 371px;
        }
        #btn2{
         position: relative;
         left: 1px;
        }
        #fotter{
-        width: 306px;
+        width: 371px;
         height: 430px;
        }
        .fot1{
