@@ -390,7 +390,7 @@ a{
             width: 361px;
             height: 800px;
             justify-content: flex-start;
-            left: 10px;
+            left: 15px;
             column-gap: 2.2rem;
             bottom: 139px;
         }
@@ -410,7 +410,7 @@ a{
         }
        #all{
         width: 361px;
-        left: 0px;
+        left: 20px;
         gap: 3rem;
         justify-content: flex-start;
         row-gap: 15px;
@@ -429,7 +429,7 @@ a{
        }
        #about{
         width: 374px;
-         height: 320px; 
+         height: 325px; 
        }
        h2{
         font-size: 19px;
