@@ -354,7 +354,7 @@ a{
     transform: scale(1.4);
 
 }
-@media(max-width:360px){
+@media(max-width:361px){
     .head{
         height: 400px;
         width: 379px;
