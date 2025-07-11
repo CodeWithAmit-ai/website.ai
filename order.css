@@ -1,0 +1,411 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color:#EAEFEF;
+}
+nav{
+    height: 40px;
+    width: 100vw;
+    background-color:black;
+}
+#logo{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top:2px;
+    padding-left: 177px;
+}
+#login{
+    margin-top: 20px;
+    margin-left: 166px;
+    height:74px;
+    width: 50vw;
+    background-color: #f9f9f9;
+    border:1px solid white;
+   box-shadow: 2px 2px 5px gray, -2px -2px 5px gray;
+
+}
+#n1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 18px;
+    width: 18px;
+    color: blue;
+    background-color: #ededed;
+}
+.n1{
+    height: 31px;
+    width: 169px;
+    display: flex;
+    margin-top: 17px;
+    justify-content: space-evenly;
+
+}
+.log{
+    font-size: large;
+    font-weight: bolder;
+    color: gray;
+}
+#b1{
+    position: relative;
+    color: blue;
+    background-color: white;
+    border: 1px solid  #d5d5d5;
+    left: 657px;
+    bottom: 46px;
+    height: 33px;
+    width: 100px;
+
+}
+#sn{
+    color: blue;
+}
+#delivary{
+     margin-top: 20px;
+    margin-left: 166px;
+    height: 400px;
+    width: 50vw;
+    border: 1px solid gray;
+    background-color: white;
+    box-shadow: 2px 2px 5px gray, -2px -2px 5px gray;
+}
+#sbar{
+    height: 40px;
+    width: 50vw;
+    background-color:black;
+    position: relative;
+    bottom: 17px;
+}
+.n2{
+    margin-top: 0px;
+    height: 31px;
+    width: 243px;
+    display: flex;
+    margin-top: 17px;
+    justify-content: space-evenly; 
+    align-items: center;
+}
+#n2{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 18px;
+    width: 18px;
+    color: blue;
+    background-color:#e1dddd;
+}
+.delivary{
+    font-size: large;
+    color: aliceblue;
+    font-weight: bolder;
+}
+#address{
+    height: 174px;
+    width: 50vw;
+    border: 1px solid gray;
+    position: relative;
+    bottom: 17px;
+    background-color:#eeeeee;
+
+
+}
+#text{
+    font-size: large;
+    font-weight: bolder;
+}
+#text1{
+    font-size: large;
+    font-weight: bolder;
+}
+#t2{
+    
+    font-family: sans-serif;
+    
+}
+#t3{
+    font-family: sans-serif; 
+   
+}
+#edit{
+    position: relative;
+    left: 696px;
+    bottom: 62px;
+    height: 27px;
+    width: 42px;
+    border: none;
+    background-color:#eeeeee;
+    color: blue;
+}
+.edit{
+      position: relative;
+    left: 696px;
+    bottom: 62px;
+    height: 27px;
+    width: 42px;
+    border: none;
+    background-color: white;
+    color: blue;
+}
+#myButton{
+    height: 36px;
+    width: 125px;
+    background-color: #fb641b;
+    border: none;
+    font-size: medium;
+    color: aliceblue;
+    font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+}
+#myButton1{
+    height: 36px;
+    width: 125px;
+    background-color: #fb641b;
+    border: none;
+    font-size: medium;
+    color: aliceblue;
+    font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+}
+#add{
+    height: 50px;
+    width: 50vw;
+    margin-top: 20px;
+    margin-left: 166px;
+    box-shadow: 0px 0px 10px gray;
+    background-color: white;
+
+}
+#b2{
+    font-size: medium;
+    background-color: white;
+    color: #2874f0;
+    border: none;
+    position: relative;
+    top: 16px;
+    left: 18px;
+    
+}
+#sumary{
+  height: 50px;
+    width: 50vw;
+    margin-top: 20px;
+    margin-left: 166px;
+    box-shadow: 0px 0px 10px gray;
+    background-color: white;  
+    border: 0.1px solid white;
+}
+#detail{
+    height: 547px;
+    width: 430px;
+    position: relative;
+    left: 960px;
+    bottom: 640px;
+     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.f1{
+    height:50vh;
+   
+}
+.f2{
+    height: 22vh;
+   
+}
+#page2{
+    width: 100vw;
+    height: 91vh;
+   
+}
+    .price-box {
+      width: 368px;
+      height: 293px;
+      border: 1px solid #ddd;
+      padding: 16px;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      position: fixed;
+    
+    }
+
+    .price-box h3 {
+      margin-top: 0;
+      margin-bottom: 16px;
+      font-size: 16px;
+      color: #333;
+    }
+
+    .price-row {
+      display: flex;
+      justify-content: space-between;
+      margin: 8px 0;
+      font-size: 14px;
+      color: #333;
+    }
+
+    .total {
+      font-weight: bold;
+      border-top: 1px solid #ccc;
+      padding-top: 12px;
+      margin-top: 12px;
+      font-size: 16px;
+    }
+
+    .savings {
+      margin-top: 16px;
+      color: green;
+      font-size: 14px;
+      font-weight: 600;
+    }
+        .price-row .strikethrough {
+      text-decoration: line-through;
+      color: #888;
+      margin-right: 6px;
+    }
+    .safe{
+        font-weight: 800;
+        color: #888;
+
+    }
+    .c1{
+    width: 273px;
+    margin-left: 41px;
+    line-height: 21px;
+    }
+    .c2{
+        width: 319px;
+    }
+    .policy{
+    color: #888;
+    line-height: 20px;
+    }
+    .term{
+        color: blue;
+    }
+    .privacy{
+        color: blue;
+    }
+    #foot{
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        position:fixed;
+        bottom: 0px;
+    }
+    #fot1{
+        display: flex;
+        width: 600px;
+        justify-content: space-evenly;
+    }
+    @media(max-width:362px){
+     nav{
+        height: 34px;
+        width: 363px;
+     }
+   #logo{
+    padding-left: 85px;
+   }
+   #login{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   #b1{
+    left: 233px;
+   }
+   #delivary{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   #sbar{
+    width: 94vw;
+   }
+   #address{
+    width: 93.5vw;
+   }
+   #edit{
+    left: 294px;
+   }
+   .edit{
+    left: 294px;
+   }
+   #add{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   #sumary{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   .price-box{
+    position: relative;
+    width: 305px;
+   }
+   #detail{
+    left: 12px;
+    bottom: 0px;
+    top: 8px;
+   }
+   #foot{
+    flex-direction: column;
+    border-top: solid;
+    position: relative;
+    bottom: -590px;
+   }
+    }
+    @media(max-width:361px){
+     nav{
+        height: 34px;
+        width: 363px;
+     }
+   #logo{
+    padding-left: 85px;
+   }
+   #login{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   #b1{
+    left: 233px;
+   }
+   #delivary{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   #sbar{
+    width: 94vw;
+   }
+   #address{
+    width: 93.5vw;
+   }
+   #edit{
+    left: 294px;
+   }
+   .edit{
+    left: 294px;
+   }
+   #add{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   #sumary{
+    margin-left: 12px;
+    width: 94vw;
+   }
+   .price-box{
+    position: relative;
+    width: 305px;
+   }
+   #detail{
+    left: 12px;
+    bottom: 0px;
+    top: 8px;
+   }
+   #foot{
+    flex-direction: column;
+    border-top: solid;
+    position: relative;
+    bottom: -590px;
+   }
+    }
